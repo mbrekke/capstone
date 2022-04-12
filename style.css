@@ -110,7 +110,7 @@
 		height: 124px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 90px;
 		color: rgba(91,133,217,1);
@@ -350,13 +350,13 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Background_ba {
+	#buildingexterior {
 		position: absolute;
+		top: 2423px;
+		left: 305px;
 		width: 519px;
 		height: 692px;
-		left: 305px;
-		top: 2423px;
-		overflow: visible;
+
 	}
 	#He_heard_one_of_the_rescue_wor {
 		left: 318.5px;
