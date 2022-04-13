@@ -1,13 +1,12 @@
 
-	
 	.mediaViewInfo {
-		--web-view-name: design – 1;
-		--web-view-id: design__1;
+		--web-view-name: design – 2;
+		--web-view-id: design__2;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
 	}
 	:root {
-		--web-view-ids: design__1;
+		--web-view-ids: design__2;
 	}
 	* {
 		margin: 0;
@@ -15,84 +14,108 @@
 		box-sizing: border-box;
 		border: none;
 	}
-	#design__1 {
+	#design__2 {
 		position: absolute;
 		width: 1792px;
-		height: 20001px;
+		height: 19405px;
 		background-color: rgba(255,255,255,1);
 		overflow: hidden;
-		--web-view-name: design – 1;
-		--web-view-id: design__1;
+		--web-view-name: design – 2;
+		--web-view-id: design__2;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
 	}
-	#Rectangle_20 {
-		fill: rgba(215,215,217,1);
+	#Rectangle_28 {
+		fill: rgba(91,133,217,1);
 	}
-	.Rectangle_20 {
+	.Rectangle_28 {
 		position: absolute;
 		overflow: visible;
-		width: 1920px;
-		height: 2153px;
-		left: -78px;
-		top: 17901px;
+		width: 188px;
+		height: 1081px;
+		left: 0px;
+		top: 2162px;
+	}
+	#Rectangle_32 {
+		fill: rgba(215,215,217,1);
+	}
+	.Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 1488px;
+		height: 820px;
+		left: 304px;
+		top: 6768px;
+	}
+	#Rectangle_26 {
+		fill: rgba(251,187,61,1);
+	}
+	.Rectangle_26 {
+		position: absolute;
+		overflow: visible;
+		width: 1792px;
+		height: 1081px;
+		left: 0px;
+		top: 1081px;
+	}
+	#Group_12 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.985px;
+		left: 230px;
+		top: 1043.508px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.985px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#background {
+		position: absolute;
+		width: 413px;
+		height: 641px;
+		left: 1380px;
+		top: 99px;
+		overflow: visible;
+	}
+	#Layer_0 {
+		position: absolute;
+		width: 897.1px;
+		height: 641px;
+		left: 393.95px;
+		top: 99px;
+		overflow: visible;
+	}
+	#Subtraction_4 {
+		opacity: 0.995;
+		position: absolute;
+		width: 305.499px;
+		height: 641.002px;
+		left: -0.499px;
+		top: 100px;
+		overflow: visible;
 	}
 	#Rectangle_19 {
-		fill: rgba(91,133,217,1);
+		fill: rgba(215,215,217,1);
 	}
 	.Rectangle_19 {
 		position: absolute;
 		overflow: visible;
-		width: 1920px;
-		height: 5237px;
-		left: -14px;
-		top: 8624px;
-	}
-	#Rectangle_18 {
-		fill: rgba(251,187,61,1);
-	}
-	.Rectangle_18 {
-		position: absolute;
-		overflow: visible;
-		width: 771px;
-		height: 267px;
-		left: -76px;
-		top: 895px;
-	}
-	#cataclysm {
-		left: 524px;
-		top: 386px;
-		position: absolute;
-		overflow: visible;
-		width: 1241px;
-		height: 485px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 220px;
-		color: rgba(0,0,0,1);
-	}
-	#the_hyatt_regency_walkway_coll {
-		left: 610px;
-		top: 680px;
-		position: absolute;
-		overflow: visible;
-		width: 1318px;
-		height: 124px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 75px;
-		color: rgba(91,133,217,1);
+		width: 1774px;
+		height: 4181px;
+		left: 43px;
+		top: 9041px;
 	}
 	#The_Hyatt_Regency_in_downtown_ {
-		left: 305px;
-		top: 2138px;
+		left: 383px;
+		top: 2918px;
 		position: absolute;
 		overflow: visible;
-		width: 1106px;
+		width: 1128px;
 		height: 179px;
 		text-align: left;
 		font-family: Helvetica Neue;
@@ -101,23 +124,9 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#On_July_17_1981 {
-		left: 305px;
-		top: 1965px;
-		position: absolute;
-		overflow: visible;
-		width: 1040px;
-		height: 124px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: italic;
-		font-weight: lighter;
-		font-size: 90px;
-		color: rgba(91,133,217,1);
-	}
 	#n_At_around_705_pm_the_guests_ {
-		left: 913px;
-		top: 2480px;
+		left: 991px;
+		top: 3260px;
 		position: absolute;
 		overflow: visible;
 		width: 479px;
@@ -130,12 +139,12 @@
 		color: rgba(0,0,0,1);
 	}
 	#The_first_responders_arrive_on {
-		left: 283px;
-		top: 3183px;
+		left: 383px;
+		top: 3945px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
-		height: 264px;
+		height: 218px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
@@ -144,8 +153,8 @@
 		color: rgba(0,0,0,1);
 	}
 	#Mark_Williams {
-		left: 154.25px;
-		top: 9810.721px;
+		left: 383px;
+		top: 10084.5px;
 		position: absolute;
 		overflow: visible;
 		width: 1016px;
@@ -155,11 +164,22 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 90px;
-		color: rgba(255,255,255,1);
+		color: rgba(91,133,217,1);
+	}
+	#Rectangle_34 {
+		fill: rgba(251,187,61,1);
+	}
+	.Rectangle_34 {
+		position: absolute;
+		overflow: visible;
+		width: 1480px;
+		height: 257px;
+		left: 383px;
+		top: 12594px;
 	}
 	#Property_valuer_Mark_Williams_ {
-		left: 318.5px;
-		top: 10023.721px;
+		left: 383px;
+		top: 10234.5px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -169,25 +189,25 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 30px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 	}
 	#He_had_been_pinned_underneath_ {
-		left: 936.25px;
-		top: 10482px;
+		left: 971.409px;
+		top: 10638.422px;
 		position: absolute;
 		overflow: visible;
-		width: 510.25px;
-		height: 528px;
+		width: 486.25px;
+		height: 545px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 30px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 	}
 	#Walter_and_Shirley_Trueblood {
-		left: 143px;
-		top: 15123.5px;
+		left: 383px;
+		top: 14196.928px;
 		position: absolute;
 		overflow: visible;
 		width: 1146px;
@@ -200,8 +220,8 @@
 		color: rgba(0,0,0,1);
 	}
 	#Walter_and_Shirley_were_there_ {
-		left: 318.5px;
-		top: 15296.5px;
+		left: 391.5px;
+		top: 14370.75px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -214,175 +234,52 @@
 		color: rgba(0,0,0,1);
 	}
 	#Walter_had_blacked_out_from_th {
-		left: 882px;
-		top: 15771px;
+		left: 955px;
+		top: 14809.178px;
 		position: absolute;
 		overflow: visible;
-		width: 509px;
-		height: 440px;
+		width: 472px;
+		height: 482px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 30px;
 		color: rgba(0,0,0,1);
-	}
-	#investigation {
-		left: 73px;
-		top: 18040px;
-		position: absolute;
-		overflow: visible;
-		width: 1235px;
-		height: 300px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 190px;
-		color: rgba(91,133,217,1);
-	}
-	#The_conclusions_from_the_inves {
-		left: 333px;
-		top: 18503px;
-		position: absolute;
-		overflow: visible;
-		width: 1042px;
-		height: 143px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 30px;
-		color: rgba(0,0,0,1);
-	}
-	#Cause_of_the_collapse {
-		left: 154px;
-		top: 18317px;
-		position: absolute;
-		overflow: visible;
-		width: 1040px;
-		height: 124px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 90px;
-		color: rgba(91,133,217,1);
-	}
-	#The_collapse_stemmed_from_a_we {
-		left: 333px;
-		top: 19674px;
-		position: absolute;
-		overflow: visible;
-		width: 1128px;
-		height: 227px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 30px;
-		color: rgba(0,0,0,1);
-	}
-	#Background {
-		position: absolute;
-		width: 777px;
-		height: 971px;
-		left: -287px;
-		top: 105px;
-		overflow: visible;
-	}
-	#Untitled_Artwork_4 {
-		position: absolute;
-		width: 1485px;
-		height: 960.882px;
-		left: 139.5px;
-		top: 8789.279px;
-		overflow: visible;
 	}
 	#Background_ {
-		display: none;
 		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1 {
-		display: none;
-		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_5 {
-		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_3 {
-		display: none;
-		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_2 {
-		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_4 {
-		position: absolute;
-		width: 1485px;
-		height: 960.883px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#buildingexterior {
-		position: absolute;
-		top: 2423px;
-		left: 305px;
 		width: 519px;
 		height: 692px;
-
+		left: 383px;
+		top: 3203px;
+		overflow: visible;
 	}
 	#He_heard_one_of_the_rescue_wor {
-		left: 318.5px;
-		top: 11329.721px;
+		left: 383px;
+		top: 11358.5px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
-		height: 367px;
+		height: 297px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 30px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 	}
-	#Background_bb {
+	#Background_ba {
 		position: absolute;
-		width: 1526px;
-		height: 1035px;
-		left: 154px;
-		top: 11901px;
+		width: 1120px;
+		height: 759.322px;
+		left: 383px;
+		top: 11744.5px;
 		overflow: visible;
 	}
 	#Doctors_had_thought_that_Mark_ {
-		left: 319px;
-		top: 13468px;
+		left: 383px;
+		top: 12921px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -392,41 +289,41 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 30px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 	}
 	#Mark_Williams_was_the_last_per {
-		left: 408px;
-		top: 13140.279px;
+		left: 468.33px;
+		top: 12627.5px;
 		position: absolute;
 		overflow: visible;
 		width: 928px;
-		height: 364px;
+		height: 190px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 50px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 	}
 	#Subtraction_1 {
 		position: absolute;
-		width: 707px;
-		height: 700.001px;
-		left: 139.5px;
-		top: 10396px;
+		width: 506.83px;
+		height: 739.844px;
+		left: 383px;
+		top: 10532.5px;
 		overflow: visible;
 	}
-	#Background_bf {
+	#Background_bb {
 		position: absolute;
-		width: 1432px;
-		height: 594px;
-		left: 166px;
-		top: 1295px;
+		width: 1305px;
+		height: 542px;
+		left: 294px;
+		top: 2280px;
 		overflow: visible;
 	}
 	#Two_hours_after_the_collapse_t {
-		left: 318.5px;
-		top: 16443.5px;
+		left: 391.5px;
+		top: 15502.678px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -438,64 +335,25 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#Layer_1_bh {
+	#Layer_1 {
 		position: absolute;
 		width: 1249px;
 		height: 867px;
-		left: 258px;
-		top: 16881px;
+		left: 331px;
+		top: 15940.178px;
 		overflow: visible;
 	}
-	#Background_bi {
+	#Background_bc {
 		position: absolute;
-		width: 551px;
-		height: 688px;
-		left: 258px;
-		top: 15640px;
+		width: 507px;
+		height: 634px;
+		left: 397px;
+		top: 14759.25px;
 		overflow: visible;
-	}
-	#Rectangle_2 {
-		fill: rgba(215,215,217,1);
-	}
-	.Rectangle_2 {
-		position: absolute;
-		overflow: visible;
-		width: 1920px;
-		height: 5050px;
-		left: -78px;
-		top: 3575px;
-	}
-	#Frank_Freeman_and_Roger_Grigsb {
-		left: 155px;
-		top: 5063px;
-		position: absolute;
-		overflow: visible;
-		width: 1282px;
-		height: 124px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: lighter;
-		font-size: 90px;
-		color: rgba(0,0,0,1);
-	}
-	#stories {
-		left: 73px;
-		top: 3713px;
-		position: absolute;
-		overflow: visible;
-		width: 715px;
-		height: 255px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 200px;
-		color: rgba(91,133,217,1);
 	}
 	#Frank_Freeman_and_his_boyfrien {
-		left: 319px;
-		top: 5270px;
+		left: 397px;
+		top: 6434px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -508,8 +366,8 @@
 		color: rgba(0,0,0,1);
 	}
 	#Text {
-		left: 134px;
-		top: 5719px;
+		left: 363px;
+		top: 6832px;
 		position: absolute;
 		overflow: visible;
 		width: 122px;
@@ -518,26 +376,26 @@
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 190px;
-		color: rgba(91,133,217,1);
+		font-size: 160px;
+		color: rgba(255,255,255,1);
 	}
 	#It_didnt_look_like_hed_been_hi {
-		left: 292px;
-		top: 5752px;
+		left: 484px;
+		top: 6855px;
 		position: absolute;
 		overflow: visible;
-		width: 1339px;
-		height: 911px;
+		width: 958px;
+		height: 500px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 100px;
-		color: rgba(91,133,217,1);
+		font-size: 75px;
+		color: rgba(0,0,0,1);
 	}
-	#Text_bp {
-		left: 1390px;
-		top: 6244px;
+	#Text_bf {
+		left: 1441px;
+		top: 7193px;
 		position: absolute;
 		overflow: visible;
 		width: 90px;
@@ -546,12 +404,12 @@
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: bold;
-		font-size: 190px;
-		color: rgba(91,133,217,1);
+		font-size: 160px;
+		color: rgba(255,255,255,1);
 	}
 	#Frank_Freeman {
-		left: 1019px;
-		top: 6458px;
+		left: 1083px;
+		top: 7355px;
 		position: absolute;
 		overflow: visible;
 		width: 461px;
@@ -561,11 +419,11 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 75px;
-		color: rgba(91,133,217,1);
+		color: rgba(0,0,0,1);
 	}
 	#Frank_had_finally_been_persuad {
-		left: 319px;
-		top: 7954px;
+		left: 385px;
+		top: 8478px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -578,8 +436,8 @@
 		color: rgba(0,0,0,1);
 	}
 	#In_talking_about_Roger_Frank_d {
-		left: 318px;
-		top: 8268px;
+		left: 381px;
+		top: 8767px;
 		position: absolute;
 		overflow: visible;
 		width: 1128px;
@@ -592,8 +450,8 @@
 		color: rgba(0,0,0,1);
 	}
 	#on_Roger_Grigsby {
-		left: 1079px;
-		top: 6567px;
+		left: 1143px;
+		top: 7464px;
 		position: absolute;
 		overflow: visible;
 		width: 401px;
@@ -603,300 +461,511 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 54px;
-		color: rgba(91,133,217,1);
+		color: rgba(0,0,0,1);
 	}
-	#Background_bu {
+	#Background_bk {
 		position: absolute;
-		width: 1456px;
-		height: 947px;
-		left: 154px;
-		top: 6836px;
+		width: 1120px;
+		height: 729px;
+		left: 387px;
+		top: 7686px;
 		overflow: visible;
 	}
 	#Untitled_Artwork_3 {
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
-		left: 139.41px;
-		top: 3994px;
+		width: 1384px;
+		height: 895.53px;
+		left: 270.5px;
+		top: 5366.47px;
 		overflow: visible;
 	}
-	#Background_bw {
+	#Background_bm {
 		display: none;
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_1_bx {
+	#Layer_1_bn {
 		opacity: 0.486;
 		display: none;
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_3_by {
+	#Layer_3 {
 		display: none;
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_5_bz {
+	#Layer_5 {
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_2_b {
+	#Layer_2 {
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_4_b {
+	#Layer_4 {
 		position: absolute;
-		width: 1485.18px;
-		height: 960.999px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Untitled_Artwork_8 {
-		position: absolute;
-		width: 1492px;
-		height: 966px;
-		left: 102px;
-		top: 18646px;
-		overflow: visible;
-	}
-	#Background_b {
-		display: none;
-		position: absolute;
-		width: 1492px;
-		height: 966px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1_b {
-		opacity: 0.51;
-		display: none;
-		position: absolute;
-		width: 1492px;
-		height: 966px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_2_ca {
-		position: absolute;
-		width: 1492px;
-		height: 966px;
+		width: 1384px;
+		height: 895.53px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
 	#Untitled_Artwork_2 {
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
-		left: 139.409px;
-		top: 14053px;
+		width: 1378.932px;
+		height: 892.25px;
+		left: 266.034px;
+		top: 13258.855px;
 		overflow: visible;
 	}
-	#Background_ca {
+	#Background_bt {
 		display: none;
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_1_ca {
+	#Layer_1_bu {
 		opacity: 0.486;
 		display: none;
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_3_b {
+	#Layer_3_bv {
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_5_ca {
+	#Layer_5_bw {
 		display: none;
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_2_cb {
+	#Layer_2_bx {
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_4_cc {
+	#Layer_4_by {
 		position: absolute;
-		width: 1485.182px;
-		height: 961px;
+		width: 1378.932px;
+		height: 892.25px;
 		left: 0px;
 		top: 0px;
 		overflow: visible;
 	}
-	#Rectangle_24 {
-		fill: transparent;
-	}
-	.Rectangle_24 {
+	#Component_6__1 {
 		position: absolute;
+		width: 100px;
+		height: 31px;
+		left: 37px;
+		top: 2622px;
 		overflow: visible;
-		width: 1792px;
-		height: 2280px;
-		left: -14px;
-		top: 1295px;
 	}
-	#Rectangle_25 {
-		fill: rgba(255,255,255,1);
-	}
-	.Rectangle_25 {
-		position: absolute;
-		overflow: visible;
-		width: 1792px;
-		height: 64px;
+	#part_one {
 		left: 0px;
 		top: 0px;
-	}
-	#Component_1__1 {
 		position: absolute;
-		width: 129px;
-		height: 29px;
-		left: 176px;
-		top: 19px;
 		overflow: visible;
+		width: 101px;
+		height: 31px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_7__1 {
+		position: absolute;
+		width: 100px;
+		height: 31px;
+		left: 37px;
+		top: 2687px;
+		overflow: visible;
+	}
+	#part_two {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		height: 31px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_8__1 {
+		position: absolute;
+		width: 114px;
+		height: 31px;
+		left: 37px;
+		top: 2752px;
+		overflow: visible;
+	}
+	#part_three {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		height: 31px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#cataclysm {
+		left: 230px;
+		top: 494px;
+		position: absolute;
+		overflow: visible;
+		width: 1467px;
+		height: 485px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 295px;
+		color: rgba(0,0,0,1);
+	}
+	#the_hyatt_regency_walkway_coll {
+		left: 554px;
+		top: 856px;
+		position: absolute;
+		overflow: visible;
+		width: 1102px;
+		height: 123px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 75px;
+		color: rgba(91,133,217,1);
 	}
 	#introduction {
-		left: 0px;
-		top: 0px;
+		left: 43px;
+		top: 1396px;
+		position: absolute;
+		overflow: hidden;
+		width: 1707px;
+		height: 337px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 295px;
+		color: rgba(0,0,0,1);
+	}
+	#what_happened_on_july_17_1981 {
+		left: 137px;
+		top: 1726px;
 		position: absolute;
 		overflow: visible;
-		width: 130px;
-		height: 29px;
+		width: 1323px;
+		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 25px;
-		color: rgba(103,103,103,1);
+		font-size: 97px;
+		color: rgba(91,133,217,1);
 	}
-	#Component_2__1 {
+	#Rectangle_31 {
+		fill: rgba(251,187,61,1);
+	}
+	.Rectangle_31 {
 		position: absolute;
-		width: 142px;
-		height: 29px;
-		left: 456px;
-		top: 19px;
 		overflow: visible;
-	}
-	#frank_freeman {
+		width: 1792px;
+		height: 1081px;
 		left: 0px;
-		top: 0px;
+		top: 4289px;
+	}
+	#Frank_Freeman__Roger_Grigsby {
+		left: 397px;
+		top: 6286px;
 		position: absolute;
 		overflow: visible;
-		width: 143px;
-		height: 29px;
+		width: 1190px;
+		height: 124px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 25px;
-		color: rgba(103,103,103,1);
+		font-size: 82px;
+		color: rgba(0,0,0,1);
 	}
-	#Component_3__1 {
+	#Untitled_Artwork_7 {
 		position: absolute;
-		width: 142px;
-		height: 29px;
-		left: 749px;
-		top: 19px;
+		width: 1384.637px;
+		height: 895.942px;
+		left: 279.09px;
+		top: 9122.559px;
 		overflow: visible;
 	}
-	#mark_williams {
+	#Background_cc {
+		display: none;
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
 		left: 0px;
 		top: 0px;
+		overflow: visible;
+	}
+	#Layer_1_cd {
+		opacity: 0.486;
+		display: none;
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_3_ce {
+		display: none;
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_5_cf {
+		display: none;
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_6 {
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_2_ch {
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_4_ci {
+		position: absolute;
+		width: 1384.637px;
+		height: 895.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_14 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.99px;
+		left: 230px;
+		top: 4251.505px;
+		overflow: visible;
+	}
+	#Group_13 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.99px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_33 {
+		fill: rgba(251,187,61,1);
+	}
+	.Rectangle_33 {
 		position: absolute;
 		overflow: visible;
-		width: 143px;
-		height: 29px;
+		width: 1792px;
+		height: 1081px;
+		left: 0px;
+		top: 16916px;
+	}
+	#Group_16 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.99px;
+		left: 230px;
+		top: 16853px;
+		overflow: visible;
+	}
+	#Group_15 {
+		position: absolute;
+		width: 1474px;
+		height: 1155.99px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#stories {
+		left: 43px;
+		top: 4644px;
+		position: absolute;
+		overflow: visible;
+		width: 1036px;
+		height: 370px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 295px;
+		color: rgba(0,0,0,1);
+	}
+	#who_was_there {
+		left: 137px;
+		top: 4965px;
+		position: absolute;
+		overflow: visible;
+		width: 608px;
+		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 25px;
-		color: rgba(103,103,103,1);
+		font-size: 97px;
+		color: rgba(91,133,217,1);
 	}
-	#Component_4__1 {
-		position: absolute;
-		width: 291px;
-		height: 29px;
-		left: 1042px;
-		top: 19px;
-		overflow: visible;
-	}
-	#walter_and_shirley_trueblood {
-		left: 0px;
-		top: 0px;
+	#investigation {
+		left: 43px;
+		top: 17227px;
 		position: absolute;
 		overflow: visible;
-		width: 292px;
-		height: 29px;
+		width: 1707px;
+		height: 337px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 279px;
+		color: rgba(0,0,0,1);
+	}
+	#cause_of_the_collapse {
+		left: 137px;
+		top: 17557px;
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 25px;
-		color: rgba(103,103,103,1);
+		font-size: 97px;
+		color: rgba(91,133,217,1);
 	}
-	#Component_5__1 {
-		position: absolute;
-		width: 132px;
-		height: 29px;
-		left: 1484px;
-		top: 19px;
-		overflow: visible;
-	}
-	#investigation_co {
-		left: 0px;
-		top: 0px;
+	#The_conclusions_from_the_inves {
+		left: 426px;
+		top: 18141px;
 		position: absolute;
 		overflow: visible;
-		width: 133px;
-		height: 29px;
+		width: 1128px;
+		height: 143px;
 		text-align: left;
 		font-family: Helvetica Neue;
 		font-style: normal;
 		font-weight: lighter;
-		font-size: 25px;
-		color: rgba(103,103,103,1);
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Untitled_Artwork_8 {
+		position: absolute;
+		width: 1149px;
+		height: 744px;
+		left: 383px;
+		top: 18284px;
+		overflow: visible;
+	}
+	#Background_cu {
+		display: none;
+		position: absolute;
+		width: 1149px;
+		height: 744px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_1_cv {
+		opacity: 0.51;
+		display: none;
+		position: absolute;
+		width: 1149px;
+		height: 744px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_2_cw {
+		position: absolute;
+		width: 1149px;
+		height: 744px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#The_collapse_stemmed_from_a_we {
+		left: 383px;
+		top: 19063px;
+		position: absolute;
+		overflow: visible;
+		width: 1128px;
+		height: 227px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
 	}
