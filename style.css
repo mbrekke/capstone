@@ -24,6 +24,7 @@
 		--web-view-id: design__2;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
+		z-index: -2;
 	}
 	#Rectangle_28 {
 		fill: rgba(91,133,217,1);
@@ -32,9 +33,25 @@
 		position: absolute;
 		overflow: visible;
 		width: 188px;
-		height: 1081px;
+		height: 17243px;
 		left: 0px;
 		top: 2162px;
+	}
+
+	#cataclysm {
+		left: 230px;
+		top: 494px;
+		position: absolute;
+		z-index: 1;
+		overflow: visible;
+		width: 1467px;
+		height: 485px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 295px;
+		color: rgba(0,0,0,1);
 	}
 	#Rectangle_32 {
 		fill: rgba(215,215,217,1);
@@ -66,7 +83,7 @@
 		top: 1043.508px;
 		overflow: visible;
 	}
-	#Group_11 {
+	#one {
 		position: absolute;
 		width: 1474px;
 		height: 1155.985px;
@@ -74,29 +91,31 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#background {
+	#titleright {
 		position: absolute;
+		top: 99px;
+		right: 0px;
 		width: 413px;
 		height: 641px;
-		left: 1380px;
-		top: 99px;
+		z-index: -1;
 		overflow: visible;
 	}
-	#Layer_0 {
+	#titlemiddle {
 		position: absolute;
-		width: 897.1px;
+		top: 99px;
+		left: 394px;
+		width: 897px;
 		height: 641px;
-		left: 393.95px;
-		top: 99px;
+		z-index: -1;
 		overflow: visible;
 	}
-	#Subtraction_4 {
-		opacity: 0.995;
+	#titleleft {
 		position: absolute;
-		width: 305.499px;
-		height: 641.002px;
-		left: -0.499px;
 		top: 100px;
+		left: -0.4990234375px;
+		width: 305px;
+		height: 641px;	
+		z-index: -1;
 		overflow: visible;
 	}
 	#Rectangle_19 {
@@ -109,13 +128,14 @@
 		height: 4181px;
 		left: 43px;
 		top: 9041px;
+		z-index: -1;
 	}
 	#The_Hyatt_Regency_in_downtown_ {
 		left: 383px;
 		top: 2918px;
 		position: absolute;
 		overflow: visible;
-		width: 1128px;
+		width: 1127px;
 		height: 179px;
 		text-align: left;
 		font-family: Helvetica Neue;
@@ -247,7 +267,7 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#Background_ {
+	#buildingexterior {
 		position: absolute;
 		width: 519px;
 		height: 692px;
@@ -313,12 +333,12 @@
 		top: 10532.5px;
 		overflow: visible;
 	}
-	#Background_bb {
+	#teadancebanner {
 		position: absolute;
+		top: 2280px;
+		left: 294px;
 		width: 1305px;
 		height: 542px;
-		left: 294px;
-		top: 2280px;
 		overflow: visible;
 	}
 	#Two_hours_after_the_collapse_t {
@@ -335,14 +355,7 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#Layer_1 {
-		position: absolute;
-		width: 1249px;
-		height: 867px;
-		left: 331px;
-		top: 15940.178px;
-		overflow: visible;
-	}
+	
 	#Background_bc {
 		position: absolute;
 		width: 507px;
@@ -471,14 +484,7 @@
 		top: 7686px;
 		overflow: visible;
 	}
-	#Untitled_Artwork_3 {
-		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 270.5px;
-		top: 5366.47px;
-		overflow: visible;
-	}
+	
 	#Background_bm {
 		display: none;
 		position: absolute;
@@ -498,39 +504,34 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Layer_3 {
-		display: none;
+
+	#frankdiagram {
 		position: absolute;
+		top: 5366px;
+		left: 270px;
 		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
+		height: 896px;
 		overflow: visible;
 	}
-	#Layer_5 {
+
+	#markdiagram {
 		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
+		top: 9123px;
+		left: 279px;
+		width: 1385px;
+		height: 896px;
 		overflow: visible;
 	}
-	#Layer_2 {
+
+	#walterdiagram {
 		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
+		top: 13259px;
+		left: 266px;
+		width: 1379px;
+		height: 892px;
 		overflow: visible;
 	}
-	#Layer_4 {
-		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
+	
 	#Untitled_Artwork_2 {
 		position: absolute;
 		width: 1378.932px;
@@ -657,20 +658,7 @@
 		font-size: 26px;
 		color: rgba(255,255,255,1);
 	}
-	#cataclysm {
-		left: 230px;
-		top: 494px;
-		position: absolute;
-		overflow: visible;
-		width: 1467px;
-		height: 485px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 295px;
-		color: rgba(0,0,0,1);
-	}
+	
 	#the_hyatt_regency_walkway_coll {
 		left: 554px;
 		top: 856px;
@@ -680,7 +668,7 @@
 		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 75px;
 		color: rgba(91,133,217,1);
@@ -708,7 +696,7 @@
 		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 97px;
 		color: rgba(91,133,217,1);
@@ -733,7 +721,7 @@
 		height: 124px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 82px;
 		color: rgba(0,0,0,1);
@@ -873,7 +861,7 @@
 		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 97px;
 		color: rgba(91,133,217,1);
