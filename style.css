@@ -181,7 +181,7 @@
 		height: 124px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 90px;
 		color: rgba(91,133,217,1);
@@ -234,7 +234,7 @@
 		height: 128px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 90px;
 		color: rgba(0,0,0,1);
@@ -289,14 +289,6 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#Background_ba {
-		position: absolute;
-		width: 1120px;
-		height: 759.322px;
-		left: 383px;
-		top: 11744.5px;
-		overflow: visible;
-	}
 	#Doctors_had_thought_that_Mark_ {
 		left: 383px;
 		top: 12921px;
@@ -320,12 +312,12 @@
 		height: 190px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 50px;
 		color: rgba(0,0,0,1);
 	}
-	#Subtraction_1 {
+	#markwilliamsphoto {
 		position: absolute;
 		width: 506.83px;
 		height: 739.844px;
@@ -333,6 +325,16 @@
 		top: 10532.5px;
 		overflow: visible;
 	}
+
+	#markwilliams2 {
+		position: absolute;
+		top: 11745px;
+		left: 383px;
+		width: 1120px;
+		height: 759px;
+		overflow: visible;
+	}
+
 	#teadancebanner {
 		position: absolute;
 		top: 2280px;
@@ -354,9 +356,8 @@
 		font-weight: lighter;
 		font-size: 30px;
 		color: rgba(0,0,0,1);
-	}
-	
-	#Background_bc {
+	}	
+	#walter1 {
 		position: absolute;
 		width: 507px;
 		height: 634px;
@@ -471,12 +472,12 @@
 		height: 124px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 54px;
 		color: rgba(0,0,0,1);
 	}
-	#Background_bk {
+	#frankfreeman {
 		position: absolute;
 		width: 1120px;
 		height: 729px;
@@ -484,24 +485,12 @@
 		top: 7686px;
 		overflow: visible;
 	}
-	
-	#Background_bm {
-		display: none;
+	#walter2 {
 		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1_bn {
-		opacity: 0.486;
-		display: none;
-		position: absolute;
-		width: 1384px;
-		height: 895.53px;
-		left: 0px;
-		top: 0px;
+		top: 15940px;
+		left: 331px;
+		width: 1249px;
+		height: 867px;
 		overflow: visible;
 	}
 
@@ -529,67 +518,6 @@
 		left: 266px;
 		width: 1379px;
 		height: 892px;
-		overflow: visible;
-	}
-	
-	#Untitled_Artwork_2 {
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 266.034px;
-		top: 13258.855px;
-		overflow: visible;
-	}
-	#Background_bt {
-		display: none;
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1_bu {
-		opacity: 0.486;
-		display: none;
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_3_bv {
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_5_bw {
-		display: none;
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_2_bx {
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_4_by {
-		position: absolute;
-		width: 1378.932px;
-		height: 892.25px;
-		left: 0px;
-		top: 0px;
 		overflow: visible;
 	}
 	#Component_6__1 {
@@ -726,75 +654,6 @@
 		font-size: 82px;
 		color: rgba(0,0,0,1);
 	}
-	#Untitled_Artwork_7 {
-		position: absolute;
-		width: 1384.637px;
-		height: 895.942px;
-		left: 279.09px;
-		top: 9122.559px;
-		overflow: visible;
-	}
-	#Background_cc {
-		display: none;
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1_cd {
-		opacity: 0.486;
-		display: none;
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_3_ce {
-		display: none;
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_5_cf {
-		display: none;
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_6 {
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_2_ch {
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_4_ci {
-		position: absolute;
-		width: 1384.637px;
-		height: 895.941px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
 	#Group_14 {
 		position: absolute;
 		width: 1474px;
@@ -889,7 +748,7 @@
 		height: 123px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 97px;
 		color: rgba(91,133,217,1);
@@ -908,39 +767,12 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
-	#Untitled_Artwork_8 {
+	#diagram {
 		position: absolute;
-		width: 1149px;
-		height: 744px;
-		left: 383px;
 		top: 18284px;
-		overflow: visible;
-	}
-	#Background_cu {
-		display: none;
-		position: absolute;
+		left: 383px;
 		width: 1149px;
 		height: 744px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_1_cv {
-		opacity: 0.51;
-		display: none;
-		position: absolute;
-		width: 1149px;
-		height: 744px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	#Layer_2_cw {
-		position: absolute;
-		width: 1149px;
-		height: 744px;
-		left: 0px;
-		top: 0px;
 		overflow: visible;
 	}
 	#The_collapse_stemmed_from_a_we {
