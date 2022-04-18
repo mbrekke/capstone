@@ -521,7 +521,7 @@
 		overflow: visible;
 	}
 	#Component_6__1 {
-		position: absolute;
+		position: sticky;
 		width: 100px;
 		height: 31px;
 		left: 37px;
@@ -531,19 +531,19 @@
 	#part_one {
 		left: 0px;
 		top: 0px;
-		position: absolute;
+		position: relative;
 		overflow: visible;
 		width: 101px;
 		height: 31px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 26px;
 		color: rgba(255,255,255,1);
 	}
 	#Component_7__1 {
-		position: absolute;
+		position: sticky;
 		width: 100px;
 		height: 31px;
 		left: 37px;
@@ -553,19 +553,19 @@
 	#part_two {
 		left: 0px;
 		top: 0px;
-		position: absolute;
+		position: relative;
 		overflow: visible;
 		width: 101px;
 		height: 31px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 26px;
 		color: rgba(255,255,255,1);
 	}
 	#Component_8__1 {
-		position: absolute;
+		position: sticky;
 		width: 114px;
 		height: 31px;
 		left: 37px;
@@ -575,13 +575,13 @@
 	#part_three {
 		left: 0px;
 		top: 0px;
-		position: absolute;
+		position: relative;
 		overflow: visible;
 		width: 115px;
 		height: 31px;
 		text-align: left;
 		font-family: Helvetica Neue;
-		font-style: normal;
+		font-style: italic;
 		font-weight: lighter;
 		font-size: 26px;
 		color: rgba(255,255,255,1);
