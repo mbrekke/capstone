@@ -1,7 +1,8 @@
 /* This is the button which opens the navbar */
 .nav_button {
 	position: fixed; /* Set the navbar to fixed position */
-  	top: 0; /* Position the navbar at the top of the page */
+  	top: 20px; /* Position the navbar at the top of the page */
+	left: 20px;
 	font-size: 24px;
 	font-family: Helvetica Neue;
 	font-style: normal;
@@ -18,7 +19,7 @@
 	z-index: 1; /* Stay on top */
 	top: 0; /* Stay at the top */
 	left: 0;
-	background-color: #111; /* Black*/
+	background-color: rgba(91,133,217,1); /* Black*/
 	overflow-x: hidden; /* Disable horizontal scroll */
 	padding-top: 60px; /* Place content 60px from the top */
 	transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -29,14 +30,14 @@
 	padding: 8px 8px 8px 32px;
 	text-decoration: none;
 	font-size: 25px;
-	color: #818181;
+	color: white;
 	display: block;
 	transition: 0.3s;
   }
   
   /* When you mouse over the navigation links, change their color */
   .sidenav a:hover {
-	color: #f1f1f1;
+	color: #000000;
   }
   
   /* Position and style the close button (top right corner) */
@@ -59,6 +60,7 @@
 	.sidenav {padding-top: 15px;}
 	.sidenav a {font-size: 18px;}
   }
+
 
 	.mediaViewInfo {
 		--web-view-name: design â€“ 2;
@@ -87,7 +89,17 @@
 		--web-enable-deep-linking: true;
 		z-index: -2;
 	}
-	
+
+	#hamburger{
+		overflow: visible;
+    	position: absolute;
+   		width: 39.169px;
+    	height: 34.273px;
+    	left: 15.915px;
+    	top: 18.363px;
+    	transform: matrix(1,0,0,1,0,0);
+	}
+
 	#Rectangle_28 {
 		fill: rgba(91,133,217,1);
 	}
@@ -98,16 +110,6 @@
 		height: 17243px;
 		left: 0px;
 		top: 2162px;
-	}
-
-	#hamburger{
-		overflow: visible;
-    	position: absolute;
-   		width: 39.169px;
-    	height: 34.273px;
-    	left: 15.915px;
-    	top: 18.363px;
-    	transform: matrix(1,0,0,1,0,0);
 	}
 
 	#cataclysm {
@@ -259,7 +261,7 @@
 		color: rgba(91,133,217,1);
 	}
 	#Rectangle_34 {
-		fill: rgba(251,187,61,1);
+		fill: rgb(255, 255, 255);
 	}
 	.Rectangle_34 {
 		position: absolute;
@@ -769,7 +771,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#stories {
+	#stories1 {
 		left: 43px;
 		top: 4644px;
 		position: absolute;
