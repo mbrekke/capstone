@@ -30,14 +30,14 @@
 	padding: 8px 8px 8px 32px;
 	text-decoration: none;
 	font-size: 25px;
-	color: white;
+	color: rgb(0, 0, 0);
 	display: block;
 	transition: 0.3s;
   }
   
   /* When you mouse over the navigation links, change their color */
   .sidenav a:hover {
-	color: #000000;
+	color: #ffffff;
   }
   
   /* Position and style the close button (top right corner) */
@@ -103,6 +103,74 @@
 	#Rectangle_28 {
 		fill: rgba(91,133,217,1);
 	}
+
+	#Rectangle_40 {
+		fill: rgba(215,215,217,1);
+	}
+
+	.Rectangle_40 {
+		position: absolute;
+		overflow: visible;
+		width: 1847px;
+		height: 233px;
+		left: 0px;
+		top: 19355px;
+	}
+
+	#margaret_brekke {
+		left: 209px;
+		top: 19405px;
+		position: absolute;
+		overflow: visible;
+		width: 408px;
+		height: 64px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 54px;
+		color: rgb(0, 0, 0);
+	}
+	
+	#portfolio {
+		left: 209px;
+		top: 19474px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		height: 43px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: italic;
+		font-weight: lighter;
+		font-size: 36px;
+		color: rgb(0, 0, 0);
+	}
+
+	#margaretbrekkemyportfoliocom {
+		left: 377px;
+		top: 19474px;
+		position: absolute;
+		overflow: visible;
+		width: 489px;
+		height: 43px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 36px;
+		color: rgb(0, 0, 0);
+	}
+
+	a:visited { 
+		text-decoration: none; 
+		color: rgb(0, 0, 0); 
+	   }
+
+	a:link {
+		text-decoration: underline;
+	}
+
 	.Rectangle_28 {
 		position: absolute;
 		overflow: visible;
@@ -593,72 +661,6 @@
 		width: 1379px;
 		height: 892px;
 		overflow: visible;
-	}
-	#Component_6__1 {
-		position: sticky;
-		width: 100px;
-		height: 31px;
-		left: 37px;
-		top: 2622px;
-		overflow: visible;
-	}
-	#part_one {
-		left: 0px;
-		top: 0px;
-		position: relative;
-		overflow: visible;
-		width: 101px;
-		height: 31px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: italic;
-		font-weight: lighter;
-		font-size: 26px;
-		color: rgba(255,255,255,1);
-	}
-	#Component_7__1 {
-		position: sticky;
-		width: 100px;
-		height: 31px;
-		left: 37px;
-		top: 2687px;
-		overflow: visible;
-	}
-	#part_two {
-		left: 0px;
-		top: 0px;
-		position: relative;
-		overflow: visible;
-		width: 101px;
-		height: 31px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: italic;
-		font-weight: lighter;
-		font-size: 26px;
-		color: rgba(255,255,255,1);
-	}
-	#Component_8__1 {
-		position: sticky;
-		width: 114px;
-		height: 31px;
-		left: 37px;
-		top: 2752px;
-		overflow: visible;
-	}
-	#part_three {
-		left: 0px;
-		top: 0px;
-		position: relative;
-		overflow: visible;
-		width: 115px;
-		height: 31px;
-		text-align: left;
-		font-family: Helvetica Neue;
-		font-style: italic;
-		font-weight: lighter;
-		font-size: 26px;
-		color: rgba(255,255,255,1);
 	}
 	
 	#the_hyatt_regency_walkway_coll {
