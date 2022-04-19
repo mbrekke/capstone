@@ -5,9 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
     <title>cataclysm</title>
 </head>
 <body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+        <a href="#intro" onclick="closeNav()">Intro</a>
+        <a href="#stories" onclick="closeNav()">Stories</a>
+        <a href="#cause" onclick="closeNav()">Cause</a>
+    </div>
+
+    <button class="nav_button" onclick="openNav()">
+            <img id="hamburger" src="img/bars-solid.svg">
+    </button>
+
     <div id="design__2" style="transform-origin: 0px 0px;">
 
         <div id="cataclysm">
@@ -51,29 +63,6 @@
                 As some guests danced on the main floor, some guests flocked to the hotel’s famous walkways that 
                 spanned across the lobby, each leading to a different floor of the hotel.
             </span>
-        </div>
-
-        <svg class="Rectangle_28">
-             <rect id="Rectangle_28" rx="0" ry="0" x="0" y="0" width="188" height="17243">
-             </rect>
-         </svg>
-
-         <div id="Component_6__1" class="Component_6___1">
-            <div id="part_one">
-                <span>intro</span>
-            </div>
-        </div>
-
-        <div id="Component_7__1" class="Component_7___1">
-            <div id="part_two">
-                <span>stories</span>
-            </div>
-        </div>
-
-        <div id="Component_8__1" class="Component_8___1">
-            <div id="part_three">
-                <span>cause</span>
-            </div>
         </div>
 
         <img id="buildingexterior" src="img/buildingexterior.jpg">
